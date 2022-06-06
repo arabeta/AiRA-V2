@@ -1,6 +1,6 @@
 
 <h1 href="arabeta.github.io/AiRA">AiRA
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/arabeta/AiRA-V2/aira-v2/public/img/AiRA_dark_512.png ">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/arabeta/AiRA-V2/aira-v2/public/img/AiRA_dark_512.png">
 </href>
 </h1>
 
